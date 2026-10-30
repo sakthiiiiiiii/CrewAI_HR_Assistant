@@ -1,4 +1,4 @@
-# ProITBridge HR Crew 🤖 — AI HR Management System (Simple Version)
+# HR Crew 🤖 — AI HR Management System (Simple Version)
 
 A multi-agent HR management web app built with **CrewAI + OpenAI + FastAPI**.
 The AI code is the **same code as our Colab notebook**, split into small files.
